@@ -13365,6 +13365,15 @@ Based on the following sources:
 <text x="-88.9" y="7.62" size="2.54" layer="91">RX / TX radio</text>
 <text x="-124.46" y="-7.62" size="2.54" layer="91">TODO: Separate arduino for actual control of the LED strips + power, 
 and separate one for the user interface (with radio comm).?</text>
+<text x="-124.46" y="-17.78" size="2.54" layer="91">TODO: Separate power board and led mesh nodes</text>
+<text x="-106.68" y="109.22" size="2.54" layer="91">PIR sensor</text>
+<text x="-119.38" y="96.52" size="2.54" layer="91">Buzzer</text>
+<text x="-101.6" y="91.44" size="2.54" layer="91">Speaker?</text>
+<text x="-132.08" y="78.74" size="2.54" layer="91">IR Proximity sensor</text>
+<text x="-132.08" y="48.26" size="2.54" layer="91">Switch Potentiometer</text>
+<text x="-114.3" y="-35.56" size="2.54" layer="91">Extra Inputs (e.g. door sensor)</text>
+<text x="-78.74" y="-43.18" size="2.54" layer="91">Vibration Sensor</text>
+<text x="-73.66" y="99.06" size="2.54" layer="91">Temperature Sensor</text>
 </plain>
 <instances>
 <instance part="U1" gate="G$1" x="142.24" y="53.34"/>
